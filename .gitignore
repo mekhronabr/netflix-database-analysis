@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+netflix_titles.csv
+__pycache__
+venv
+orig/
+*.pkl
